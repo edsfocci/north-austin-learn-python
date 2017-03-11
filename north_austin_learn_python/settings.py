@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '955y1rvp@0w&6ia@fmi+9%og1a09sm==d+el^rulrlwcg15%9@'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     'north-austin-learn-python.herokuapp.com'
